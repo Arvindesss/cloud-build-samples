@@ -14,7 +14,7 @@
 
 # [START cloudbuild_quickstart_automate]
 options:
-  - logging: CLOUD_LOGGING_ONLY
+  logging: CLOUD_LOGGING_ONLY
 
 steps:
   - name: golang
